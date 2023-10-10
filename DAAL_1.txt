@@ -30,6 +30,8 @@ int main()
     cout<<"the nuber of zeros="<<count;
 }
 
+//comment
+
 output=
 Enter the size of array=7
 1
