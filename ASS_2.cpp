@@ -60,7 +60,7 @@ multiset<int> st;
 
 					// Insert new closing time of current
 					// shop for the person satisfying ?he
-					// condition
+					
 					st.insert(a[i].second);
 
 					// Increment the count by one
